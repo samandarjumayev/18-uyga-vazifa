@@ -498,6 +498,11 @@
         margin: 5px 0;
     }
 
+
+    .footer-top {
+        height: 90vh;
+    }
+
 }
 
 @media (max-width: 600px) {
